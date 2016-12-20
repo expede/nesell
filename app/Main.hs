@@ -1,6 +1,7 @@
 module Main where
 
-import Lib
+import Foundation
+import Nesell
 
 main :: IO ()
 main = someFunc
